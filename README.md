@@ -24,30 +24,6 @@ Welcome to my GitHub profile! I'm Hisham Rabea, a passionate Frontend Developer 
 ![Hisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hisham1907&show_icons=true&theme=radical)
 
 ---
-
-# 🌟 Latest Projects
-
-### [Boss Helper](https://github.com/Hisham1907/boss-helper)
-
-A versatile business management web application designed to streamline operations for business owners.
-
-- **Technologies:** HTML, CSS, JavaScript
-- **Features:** Local storage for data, user authentication, intuitive UI
-
-### [Shopper](https://github.com/Hisham1907/shopper)
-
-A responsive e-commerce website ensuring accessibility across devices.
-
-- **Technologies:** HTML, CSS, Bootstrap
-
-### [Traveler](https://github.com/Hisham1907/traveler)
-
-A responsive website for a tourism company.
-
-- **Technologies:** HTML, CSS, Bootstrap
-
----
-
 # 🏅 Highlights
 
 - **[Route Academy Fullstack Diploma](https://routeacademy.com):** Gained comprehensive fullstack development skills.
