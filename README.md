@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Hisham Rabea!
 
 🎨 Frontend Developer | 🎓 Computer Science Graduate | 💡 Lifelong Learner
@@ -6,7 +7,7 @@ Welcome to my GitHub profile! I'm Hisham Rabea, a passionate Frontend Developer 
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,41 +19,51 @@ Welcome to my GitHub profile! I'm Hisham Rabea, a passionate Frontend Developer 
 
 ---
 
-## 🌟 Key Projects
+# 📊 GitHub Stats
+
+![Hisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hisham1907&show_icons=true&theme=radical)
+
+---
+
+# 🌟 Latest Projects
 
 ### [Boss Helper](https://github.com/Hisham1907/boss-helper)
+
 A versatile business management web application designed to streamline operations for business owners.
+
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:** Local storage for data, user authentication, intuitive UI
 
 ### [Shopper](https://github.com/Hisham1907/shopper)
+
 A responsive e-commerce website ensuring accessibility across devices.
+
 - **Technologies:** HTML, CSS, Bootstrap
 
 ### [Traveler](https://github.com/Hisham1907/traveler)
+
 A responsive website for a tourism company.
+
 - **Technologies:** HTML, CSS, Bootstrap
 
+---
 
-## 🏆 Achievements
+# 🏅 Highlights
 
-- **Route Academy Fullstack Diploma:** Gained comprehensive fullstack development skills.
-- **Helwan ICPC Community:** Enhanced problem-solving abilities through competitive programming.
+- **[Route Academy Fullstack Diploma](https://routeacademy.com):** Gained comprehensive fullstack development skills.
+- **[Helwan ICPC Community](https://www.facebook.com/HelwanICPCCommunity):** Enhanced problem-solving abilities through competitive programming.
 
 ---
 
-## 📊 GitHub Stats
-
-![Hisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hisham1907&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisham1907&layout=compact&theme=radical)
-
----
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 
 - **LinkedIn:** [Hisham Rabea](https://www.linkedin.com/in/yourlinkedinprofile)
-- **GitHub:** [github.com/Hisham1907](https://github.com/Hisham1907)
+- **GitHub:** [Hisham1907](https://github.com/Hisham1907)
 - **Email:** [Hishamrabea1907@gmail.com](mailto:Hishamrabea1907@gmail.com)
 - **WhatsApp:** [Contact me now on WhatsApp](https://wa.me/201060472366)
 
 ---
- 
+
+# 📄 My Resume
+
+You can view my resume [here](https://drive.google.com/drive/folders/1QybiDUuVhq_a2FZBrJiLaojFhYmZ5mgU?usp=drive_link).
