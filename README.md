@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm Hisham Rabea, a passionate Frontend Developer 
 
 # 🌐 Connect with Me
 
-- **LinkedIn:** [Hisham Rabea](https://www.linkedin.com/in/yourlinkedinprofile)
+- **LinkedIn:** [Hisham Rabea](https://www.linkedin.com/in/hisham-rabea-226866248)
 - **GitHub:** [Hisham1907](https://github.com/Hisham1907)
 - **Email:** [Hishamrabea1907@gmail.com](mailto:Hishamrabea1907@gmail.com)
 - **WhatsApp:** [Contact me now on WhatsApp](https://wa.me/201060472366)
