@@ -3,7 +3,12 @@
 
 🎨 Frontend Developer | 🎓 Computer Science Graduate | 💡 Lifelong Learner
 
-Welcome to my GitHub profile! I'm Hisham Rabea, a passionate Frontend Developer with a degree in Computer Science from Helwan University. I specialize in creating beautiful, responsive web applications and am always eager to learn new technologies and improve my skills.
+Frontend Developer with hands-on experience. Proficient in HTML, CSS, JavaScript, TypeScript, and React, I specialize in
+building responsive, performant web applications. I enjoy creating visually appealing designs and optimizing user
+experiences with modern tools. I am dedicated to continuous learning and improvement, striving to deliver innovative
+solutions that make an impact. I’m excited to bring my skills and enthusiasm to a dynamic team, contributing to
+meaningful projects while growing as a developer.
+You can explore some of my work and projects directly on my portfolio: hisham-rabea.netlify.app
 
 ---
 
